@@ -11,7 +11,7 @@ I'm looking for **junior software developer, gameplay/tools programmer, and tech
 | | |
 |---|---|
 | **Languages** | JavaScript, GDScript, GLSL / HLSL, HTML, CSS, Blueprints, C# |
-| **Engines & tools** | Godot Engine, Unreal Engine, Unity, Git / GitHub / Gitlab, Blender, Substance Painter, Marmoset Toolbag, Substance Designer, Github Desktop, Sourcetree, Clickup, Notion, Jira, Trello |
+| **Engines & tools** | Godot Engine, Unreal Engine, Unity, Git / GitHub / Gitlab, Blender, Substance Painter, Marmoset Toolbag, Substance Designer, Github Desktop, Sourcetree, Clickup, Notion, Jira, [...]
 | **Focus areas** | Graphics programming, gameplay systems, tooling, visual/code integration and design |
 
 ## Featured projects
@@ -35,5 +35,5 @@ I'm looking for **junior software developer, gameplay/tools programmer, and tech
 - 🎮 [Itch.io](https://claveredwyn.itch.io)
 - 🎨 [ArtStation](https://www.artstation.com/alexkus)
 - 🎬 [Reel on Vimeo](https://vimeo.com/1045842626)
-- 💼 [LinkedIn](linkedin.com/in/alex-kus-447643358)
-- ✉️ .[Email](alexkus12345@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/alex-kus-447643358)
+- ✉️ [Email](mailto:alexkus12345@gmail.com)
