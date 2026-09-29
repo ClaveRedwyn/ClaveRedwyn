@@ -32,8 +32,8 @@ I'm looking for **junior software developer, gameplay/tools programmer, and tech
 
 ## Find my work
 
-- 🎮 [itch.io](https://claveredwyn.itch.io)
+- 🎮 [Itch.io](https://claveredwyn.itch.io)
 - 🎨 [ArtStation](https://www.artstation.com/alexkus)
 - 🎬 [Reel on Vimeo](https://vimeo.com/1045842626)
-- 💼 LinkedIn: *add link*
-- ✉️ Email: *add address*
+- 💼 [LinkedIn](linkedin.com/in/alex-kus-447643358)
+- ✉️ .[Email](alexkus12345@gmail.com)
